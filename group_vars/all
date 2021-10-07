@@ -1,0 +1,11 @@
+user:
+    name: [placeholder]
+    fullname: [placeholder]
+    uid: 1001
+    group: [placeholder]
+    shell: /bin/bash
+    email: [placeholder]
+
+timezone: [placeholder]/[placeholder]
+locale: en_US.UTF-8
+keymap: us
